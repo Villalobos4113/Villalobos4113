@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Fernando Villalobos, I am currently a student in Computer Engineering at ITAM (Instituto Tecnológico Autónmo de México). <br>I currently have 8 certificates issued by Cognitive Class from IBM, Analysic, Programming Hub from Google Developers Launchpad and Codecademy, all related to the subject in Computer Science. <br>I already have several years programming and I have advanced knowledge in Python, Java and basic knowledge in JavaScript. <br>I have wide interest in Data Science, Artificial Intelligence, Deep Learning and Quantum Computing.
+I am Fernando Villalobos, I am currently a student in Computer Engineering at ITAM (Instituto Tecnológico Autónmo de México). <br>I currently have 8 certificates issued by Cognitive Class from IBM, Analysic, Programming Hub from Google Developers Launchpad and Codecademy, all related to the subject in Computer Science. <br>I already have several years programming and I have advanced knowledge in Python, Java and basic knowledge in JavaScript. <br>I have wide interest in Data Science, Artificial Intelligence, Deep Learning and Quantum Computing. <br>Here you can find me: [Fernando Villalobos](https://www.fvb.one)
 
 
 ## 🌐 Socials:
